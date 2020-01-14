@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Yefferson Perez',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  tagline: 'Bienvenidos al blog personal del mejor analista del datos de SurAmerica',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
